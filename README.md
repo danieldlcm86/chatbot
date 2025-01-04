@@ -33,7 +33,7 @@ Una vez creado, obtendrás el Key (clave) y el Endpoint (punto de conexión) nec
 ## Configuración en el proyecto .NET
 
 1. Crea un nuevo proyecto de C# Console en Visual Studio.
-2. Copia y edita el código del archivo [ChatBot-AzureOpenAI](/)
+2. Copia y edita el código del archivo [ChatBot-AzureOpenAI](/chatbot-azure-openAI.cs)
 3. Usa NuGet para instalar los paquetes requeridos:
 
 ```bash
