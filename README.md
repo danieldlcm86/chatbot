@@ -1,4 +1,4 @@
-# Azure OpenAI
+# Azure OpenAI 🤖
 
 Azure OpenAI es un servicio de Microsoft Azure que permite a los desarrolladores integrar modelos avanzados de inteligencia artificial generativa, como **GPT** (*Generative Pre-trained Transformer*) de OpenAI, en sus aplicaciones. 
 
@@ -38,7 +38,6 @@ Una vez creado, obtendrás el Key (clave) y el Endpoint (punto de conexión) nec
 
 ```bash
 dotnet add package Azure.AI.OpenAI
-dotnet add package Microsoft.Data.SqlClient
 ```
 
 4. Ahora puedes realizar cualquier consulta a tu chat escribiéndolo desde en la variable `userChatMsg`.
